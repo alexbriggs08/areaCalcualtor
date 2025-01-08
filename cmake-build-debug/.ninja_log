@@ -1,0 +1,10 @@
+# ninja log v6
+3	59	1736348578319290301	build.ninja	357baf1b04e502c3
+6	451	1736347949822755609	CMakeFiles/areaCalcualtor.dir/main.cpp.o	7dff88c8ad75adb4
+6	620	1736347908813187858	CMakeFiles/areaCalcualtor.dir/getUserHeight.cpp.o	2d0a99c20eb124c5
+17	625	1736347426006297344	CMakeFiles/areaCalcualtor.dir/getUserLength.cpp.o	f468031df9c0b75b
+451	486	1736347950267999294	areaCalcualtor	8e575462cb80fdf5
+2	55	1736348578319290301	build.ninja	357baf1b04e502c3
+3	599	1736348578330210702	CMakeFiles/areaCalcualtor.dir/main.cpp.o	7dff88c8ad75adb4
+4	599	1736348578330522528	CMakeFiles/areaCalcualtor.dir/doCalculations.cpp.o	3d6e01479c443d32
+599	636	1736348578926266056	areaCalcualtor	b43a0d9f675a98a1
